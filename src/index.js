@@ -1,3 +1,3 @@
-const calcularInss = require("./calculo_inss");
+const calcularIR  = require("./calculo_imposto");
 
-console.log(calcularInss(3000))
+console.log(calcularIR(5000))
